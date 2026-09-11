@@ -1,16 +1,30 @@
-# React + Vite
+# DevStack - Technology Stack Builder
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive React & Tailwind CSS web application for discovering, filtering, and curating web development tech stacks.
 
-Currently, two official plugins are available:
+## 🔗 Live Links
+- **Live Site:** [https://assignment-05-dev-stack-ochre.vercel.app/](https://assignment-05-dev-stack-ochre.vercel.app/)
+- **GitHub Repository:** [https://github.com/Zonayed-dev/assignment-05-Dev-Stack-.git](https://github.com/Zonayed-dev/assignment-05-Dev-Stack-.git)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## ✨ Key Features
+- **Tech Explorer:** Browse frontend, backend, database, and devops technologies.
+- **Responsive Navigation:** Clean navbar for desktop that transforms into a hamburger menu on phone screens.
+- **Stack Builder:** Add and remove technologies dynamically to build your personal stack.
+- **Real-Time Feedback:** Integrated toast notifications for adding/removing items.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
+- **Frontend Framework:** React.js (built with Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** Devicon CDN (SVG format)
+- **Notifications:** React Toastify
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## 🚀 Getting Started Locally
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Zonayed-dev/assignment-05-Dev-Stack-.git](https://github.com/Zonayed-dev/assignment-05-Dev-Stack-.git)
+   cd assignment-05-Dev-Stack-
