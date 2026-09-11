@@ -1,0 +1,122 @@
+[
+    {
+        "id": "react",
+        "name": "React",
+        "category": "Frontend",
+        "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
+        "icon": "https://techicons.dev/icons/react.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Database",
+        "description": "A powerful, open-source object-relational database system with proven reliability.",
+        "icon": "https://techicons.dev/icons/postgresql.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Top SQL"
+    },
+    {
+        "id": "nextjs",
+        "name": "Next.js",
+        "category": "Frontend",
+        "description": "The React framework for the web, enabling server-side rendering and static site generation.",
+        "icon": "https://techicons.dev/icons/nextjs.svg",
+        "rating": 4.8,
+        "difficulty": "Intermediate",
+        "badge": "Trending"
+    },
+    {
+        "id": "typescript",
+        "name": "TypeScript",
+        "category": "Language",
+        "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling at scale.",
+        "icon": "https://techicons.dev/icons/typescript.svg",
+        "rating": 4.9,
+        "difficulty": "Intermediate",
+        "badge": "Essential"
+    },
+    {
+        "id": "tailwindcss",
+        "name": "Tailwind CSS",
+        "category": "Styling",
+        "description": "A utility-first CSS framework packed with classes that can be composed to build any design.",
+        "icon": "https://techicons.dev/icons/tailwindcss.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "nodejs",
+        "name": "Node.js",
+        "category": "Backend",
+        "description": "A back-end JavaScript runtime environment that executes JavaScript code outside a web browser.",
+        "icon": "https://techicons.dev/icons/nodejs.svg",
+        "rating": 4.7,
+        "difficulty": "Intermediate",
+        "badge": "Essential"
+    },
+    {
+        "id": "docker",
+        "name": "Docker",
+        "category": "DevOps",
+        "description": "A set of platform-as-a-service products that use OS-level virtualization to deliver software in packages.",
+        "icon": "https://techicons.dev/icons/docker.svg",
+        "rating": 4.8,
+        "difficulty": "Advanced",
+        "badge": "Containers"
+    },
+    {
+        "id": "mongodb",
+        "name": "MongoDB",
+        "category": "Database",
+        "description": "A source-available cross-platform document-oriented database program classified as a NoSQL database.",
+        "icon": "https://techicons.dev/icons/mongodb.svg",
+        "rating": 4.6,
+        "difficulty": "Beginner-Friendly",
+        "badge": "NoSQL"
+    },
+    {
+        "id": "python",
+        "name": "Python",
+        "category": "Language",
+        "description": "A high-level, general-purpose programming language known for its clear syntax and readability.",
+        "icon": "https://techicons.dev/icons/python.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Versatile"
+    },
+    {
+        "id": "git",
+        "name": "Git",
+        "category": "Tools",
+        "description": "A distributed version control system designed to track changes in source code during development.",
+        "icon": "https://techicons.dev/icons/git.svg",
+        "rating": 4.9,
+        "difficulty": "Beginner-Friendly",
+        "badge": "Essential"
+    },
+    {
+        "id": "graphql",
+        "name": "GraphQL",
+        "category": "Backend",
+        "description": "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
+        "icon": "https://techicons.dev/icons/graphql.svg",
+        "rating": 4.5,
+        "difficulty": "Advanced",
+        "badge": "Modern API"
+    },
+    {
+        "id": "redis",
+        "name": "Redis",
+        "category": "Database",
+        "description": "An in-memory data structure store used as a distributed, in-memory key–value database, cache, and broker.",
+        "icon": "https://techicons.dev/icons/redis.svg",
+        "rating": 4.8,
+        "difficulty": "Intermediate",
+        "badge": "Fast Cache"
+    }
+]
