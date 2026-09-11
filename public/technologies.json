@@ -4,7 +4,7 @@
         "name": "React",
         "category": "Frontend",
         "description": "A declarative, component-based JavaScript library for building modern user interfaces.",
-        "icon": "https://techicons.dev/icons/react.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
         "rating": 4.9,
         "difficulty": "Beginner-Friendly",
         "badge": "Popular"
@@ -14,7 +14,7 @@
         "name": "PostgreSQL",
         "category": "Database",
         "description": "A powerful, open-source object-relational database system with proven reliability.",
-        "icon": "https://techicons.dev/icons/postgresql.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
         "rating": 4.9,
         "difficulty": "Intermediate",
         "badge": "Top SQL"
@@ -24,7 +24,7 @@
         "name": "Next.js",
         "category": "Frontend",
         "description": "The React framework for the web, enabling server-side rendering and static site generation.",
-        "icon": "https://techicons.dev/icons/nextjs.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
         "rating": 4.8,
         "difficulty": "Intermediate",
         "badge": "Trending"
@@ -34,7 +34,7 @@
         "name": "TypeScript",
         "category": "Language",
         "description": "A strongly typed programming language that builds on JavaScript, giving you better tooling at scale.",
-        "icon": "https://techicons.dev/icons/typescript.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
         "rating": 4.9,
         "difficulty": "Intermediate",
         "badge": "Essential"
@@ -44,7 +44,7 @@
         "name": "Tailwind CSS",
         "category": "Styling",
         "description": "A utility-first CSS framework packed with classes that can be composed to build any design.",
-        "icon": "https://techicons.dev/icons/tailwindcss.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
         "rating": 4.9,
         "difficulty": "Beginner-Friendly",
         "badge": "Popular"
@@ -54,7 +54,7 @@
         "name": "Node.js",
         "category": "Backend",
         "description": "A back-end JavaScript runtime environment that executes JavaScript code outside a web browser.",
-        "icon": "https://techicons.dev/icons/nodejs.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
         "rating": 4.7,
         "difficulty": "Intermediate",
         "badge": "Essential"
@@ -64,7 +64,7 @@
         "name": "Docker",
         "category": "DevOps",
         "description": "A set of platform-as-a-service products that use OS-level virtualization to deliver software in packages.",
-        "icon": "https://techicons.dev/icons/docker.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
         "rating": 4.8,
         "difficulty": "Advanced",
         "badge": "Containers"
@@ -74,7 +74,7 @@
         "name": "MongoDB",
         "category": "Database",
         "description": "A source-available cross-platform document-oriented database program classified as a NoSQL database.",
-        "icon": "https://techicons.dev/icons/mongodb.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
         "rating": 4.6,
         "difficulty": "Beginner-Friendly",
         "badge": "NoSQL"
@@ -84,7 +84,7 @@
         "name": "Python",
         "category": "Language",
         "description": "A high-level, general-purpose programming language known for its clear syntax and readability.",
-        "icon": "https://techicons.dev/icons/python.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
         "rating": 4.9,
         "difficulty": "Beginner-Friendly",
         "badge": "Versatile"
@@ -94,7 +94,7 @@
         "name": "Git",
         "category": "Tools",
         "description": "A distributed version control system designed to track changes in source code during development.",
-        "icon": "https://techicons.dev/icons/git.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
         "rating": 4.9,
         "difficulty": "Beginner-Friendly",
         "badge": "Essential"
@@ -104,7 +104,7 @@
         "name": "GraphQL",
         "category": "Backend",
         "description": "A query language for APIs and a runtime for fulfilling those queries with your existing data.",
-        "icon": "https://techicons.dev/icons/graphql.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg",
         "rating": 4.5,
         "difficulty": "Advanced",
         "badge": "Modern API"
@@ -114,7 +114,7 @@
         "name": "Redis",
         "category": "Database",
         "description": "An in-memory data structure store used as a distributed, in-memory key–value database, cache, and broker.",
-        "icon": "https://techicons.dev/icons/redis.svg",
+        "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
         "rating": 4.8,
         "difficulty": "Intermediate",
         "badge": "Fast Cache"
